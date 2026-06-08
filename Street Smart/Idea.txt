@@ -1,0 +1,17 @@
+29. Street Vendor Point-of-Sale Wallet
+
+Problem: Street vendors can't accept digital payments — apps require smartphones and bank accounts.
+Solution: QR-code based payment to a Stellar address. Customer scans, pays, vendor sees it in 5 seconds.
+Why Stellar: Works on basic smartphones, no bank account needed.
+
+30. Remittance-Linked Credit Builder
+
+Problem: Remittance recipients have no formal credit history, so they can't access local loans.
+Solution: A score built from consistent receipt and saving of remittances on-chain, presentable to local lenders.
+Why Stellar: On-chain remittance history is immutable and lender-verifiable.
+
+35. Sari-Sari Store Inventory Finance
+
+Problem: Sari-sari store owners can't stock up in bulk because they lack upfront capital.
+Solution: Community lenders provide short-term USDC loans for bulk inventory; repayment from daily sales.
+Why Stellar: Fast settlement, programmable repayment schedule.
